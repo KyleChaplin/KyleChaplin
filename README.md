@@ -1,10 +1,7 @@
 ## Hi there 👋
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=deChaplin&show_icons=true&theme=dark" />
-
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deChaplin&layout=compact" />
-
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deChaplin&langs_count=8" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deChaplin&langs_count=4" />
 
 <br></br>
 <br></br>
