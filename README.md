@@ -1,4 +1,4 @@
-## Hi there 👋
+## Kyle Chaplin 
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deChaplin&show_icons=true&theme=dark" />
@@ -7,8 +7,6 @@
 
 <br></br>
 <div align="left">
-
-Kyle Chaplin
 
 👨‍💻 Computer Science Enthusiast | Aspiring Software Developer
 
