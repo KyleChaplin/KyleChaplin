@@ -8,7 +8,7 @@
 <br></br>
 <div align="left">
 
-👨‍💻 Computer Science Enthusiast | Aspiring Software Developer
+👨‍💻 Aspiring Software Developer
 
 🎓 Studying Computer Games Development @ USW
 
