@@ -8,13 +8,13 @@
 <br></br>
 <div align="left">
 
+👋 Hey there! I'm Kyle, currently study Computer Games Development while gearing up for a career in software development. I'm excited about exploring software development's vast landscape. 
+
 👨‍💻 Aspiring Software Developer
 
 🎓 Studying Computer Games Development @ USW
 
 💡 Proficient in C++, C#, Python
-
-👋 Hey there! I'm Kyle, currently immersed in the world of Computer Games Development at USW while gearing up for a career in software development. I'm excited about exploring software development's vast landscape. 
 
 🤞 Preparing to apply my skills to innovate and craft solutions that positively impact the digital world.
 
