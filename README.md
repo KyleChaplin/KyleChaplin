@@ -14,7 +14,7 @@
 
 🎓 Studying Computer Games Development @ USW
 
-💡 Proficient in C++, C#, Python
+💡 Enjoy using C++, C#, Python, and Java
 
 🤞 Preparing to apply my skills to innovate and craft solutions that positively impact the digital world.
 
