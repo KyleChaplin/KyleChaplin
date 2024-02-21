@@ -21,4 +21,4 @@
 </div>
 
 ## Previous Experience 📒
-[![My Skills](https://skillicons.dev/icons?i=cpp,cs,py,js,html,CSS,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,cs,java,py,js,html,css)](https://skillicons.dev)
