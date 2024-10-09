@@ -8,11 +8,11 @@
 <br></br>
 <div align="left">
 
-👋 Hey there! I'm Kyle, currently study Computer Games Development while gearing up for a career in software development. I'm excited about exploring software development's vast landscape. 
+👋 Hey there! I'm Kyle, currently study Computer Science while gearing up for a career in software development. I'm excited about exploring software development's vast landscape. 
 
 👨‍💻 Aspiring Software Developer
 
-🎓 Studying Computer Games Development @ USW
+🎓 Studying Advanced Computer Science @ USW
 
 💡 Enjoy using C++, C#, Python, and Java
 
