@@ -1,7 +1,7 @@
 ## Kyle Chaplin 
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deChaplin&show_icons=true&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KyleChaplin&show_icons=true&theme=dark" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deChaplin&size_weight=0.5&count_weight=0.5&theme=dark"/>
 </div>
 
